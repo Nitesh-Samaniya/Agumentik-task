@@ -11,7 +11,7 @@ const Front = () => {
             <Box h={'243px'} mt={'48px'} lineHeight={['44px','44px','44px','89.6px']} fontWeight={700} fontSize={['32px','32px','32px','64px']}>
                 The Exotic <Text color={'#3282AD'}>Lakshadweep</Text> Islands
             </Box>
-            <Button mt={['-100px','-100px','-100px','80px']} color={'#3282AD'} bg={'transparent'} border="2px solid #3282AD" w={'174px'} h={'64px'} borderRadius={'5px'} p={'16px, 32px, 16px, 32px'} gap={'10px'}>Discover Now</Button>
+            <Button mt={['-100px','-100px','-100px','80px']} mb={'30px'} color={'#3282AD'} bg={'transparent'} border="2px solid #3282AD" w={'174px'} h={'64px'} borderRadius={'5px'} p={'16px, 32px, 16px, 32px'} gap={'10px'}>Discover Now</Button>
         </Box>
 
         <Hide below='900px'>
