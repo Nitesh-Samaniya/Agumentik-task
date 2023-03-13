@@ -1,10 +1,11 @@
-
+import Navbar from "./components/navbar/Navbar";
+import { Box } from '@chakra-ui/react'
 
 function App() {
   return (
-    <div className="App">
-      check
-    </div>
+    <Box>
+      <Navbar /> 
+    </Box>
   );
 }
 
