@@ -19,7 +19,7 @@ function DrawerNav() {
   
     return (
       <>
-        <Button ref={btnRef} colorScheme='teal' onClick={onOpen}>
+        <Button ref={btnRef} onClick={onOpen} bg={'transparent'} color={"blue"} fontSize={'2xl'}>
           <GiHamburgerMenu />
         </Button>
         <Drawer
