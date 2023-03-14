@@ -4,7 +4,7 @@ import { FaTelegramPlane } from 'react-icons/fa';
 
 const Flying = () => {
   return (
-    <Box pl={['10px','70px','70px','84.5px']} w={['410','629px','629px','1226px']} h={'224px'} p={["48px, 24px, 48px, 24px"]}>
+    <Box pl={['10px','70px','70px','70px']} w={['410','629px','629px','1150px']} h={'224px'} p={["48px, 24px, 48px, 24px"]}>
         <Hide below='500px'>
             <Text fontSize={'20px'} fontWeight={600} mb={'24px'}>Where are you flying? </Text>
         </Hide>

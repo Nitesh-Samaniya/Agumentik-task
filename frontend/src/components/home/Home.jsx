@@ -4,6 +4,7 @@ import Front from './Front'
 import Flying from './Flying'
 import Packages from './Packages'
 import Island from './Island'
+import Client from './Client'
 
 const Home = () => {
   return (
@@ -12,6 +13,7 @@ const Home = () => {
         <Flying />
         <Packages />
         <Island />
+        <Client />
     </Box>
   )
 }
